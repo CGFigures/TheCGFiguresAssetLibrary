@@ -1,0 +1,118 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+07cba971-3920-4571-8641-090e3386e81d:CGFigures Assets:CGFigures Assets
+a0168178-8e78-451a-8484-2159ee47b946:CGFigures Assets/Atomic Nodes Instances:CGFigures Assets-Atomic Nodes Instances
+c626bc1b-a537-4298-ac06-4365635cecb6:CGFigures Assets/Atomic Nodes Instances:CGFigures Assets-Atomic Nodes Instances
+6a933d16-ada8-4232-a08a-7a1b14f8661f:CGFigures Assets/Atomic Nodes Instances/Modify Atoms:CGFigures Assets-Atomic Nodes Instances-Modify Atoms
+48723a39-33b5-4ab4-82fe-30aea0f20aee:CGFigures Assets/Atomic Nodes Instances/Modify Atoms/Basic Transforms:... Assets-Atomic Nodes Instances-Modify Atoms-Basic Transforms
+1119dfc8-53b8-4fb7-ac7e-1ec53af8d3af:CGFigures Assets/Atomic Nodes Instances/Modify Atoms/Compound Transforms:...sets-Atomic Nodes Instances-Modify Atoms-Compound Transforms
+df73141b-d9f4-425e-b24e-b169180170c2:CGFigures Assets/Atomic Nodes Instances/Modify Atoms/Other Modifications:...sets-Atomic Nodes Instances-Modify Atoms-Other Modifications
+d91f8131-8dc2-45c4-b659-103939da3e99:CGFigures Assets/Atomic Nodes Instances/Modify Bonds:CGFigures Assets-Atomic Nodes Instances-Modify Bonds
+0fd4a4cd-2460-448e-8f0d-e139a7a4080e:CGFigures Assets/Atomic Nodes Instances/Setup Nodes:CGFigures Assets-Atomic Nodes Instances-Setup Nodes
+288612a2-8b68-480d-9b59-beebb10cd131:CGFigures Assets/Atomic Nodes Mesh:CGFigures Assets-Atomic Nodes Mesh
+76bca0f6-71bf-4ca6-b529-55f34b5481b7:CGFigures Assets/Atomic Nodes Mesh/Adjust Scale:CGFigures Assets-Atomic Nodes Mesh-Adjust Scale
+a84eaaef-83ed-49fd-87e4-b3abc49f4174:CGFigures Assets/Atomic Nodes Mesh/Hide Features:CGFigures Assets-Atomic Nodes Mesh-Hide Features
+ed7454a9-6501-4f4f-93e0-5ba69b53f7ce:CGFigures Assets/Atomic Nodes Mesh/Other Utilties:CGFigures Assets-Atomic Nodes Mesh-Other Utilties
+1a2178f5-9bea-4b2d-a5ff-1fbcdbb74321:CGFigures Assets/Atomic Nodes Mesh/Select by Element:CGFigures Assets-Atomic Nodes Mesh-Select by Element
+c4e88924-ed73-4716-b3ff-e20f25b43418:CGFigures Assets/Biology:CGFigures Assets-Biology
+121520f2-7fd0-4ecc-bcb5-fb227de80ce6:CGFigures Assets/Biology/Cells and Organelles:CGFigures Assets-Biology-Cells and Organelles
+383c10f3-b1e1-4a80-bafa-1caea139deb4:CGFigures Assets/Biology/Cells and Organelles/Cells and Membranes:...ures Assets-Biology-Cells and Organelles-Cells and Membranes
+872da7ac-7bd6-4e1e-a914-2a7867beda76:CGFigures Assets/Biology/Cells and Organelles/Phospholipid Styles:...ures Assets-Biology-Cells and Organelles-Phospholipid Styles
+acd961d1-2159-4245-9476-761b14da6ad0:CGFigures Assets/CGFigures Geonodes:CGFigures Assets-CGFigures Geonodes
+7630d4b2-7f57-461a-b18b-410ab1b07301:CGFigures Assets/CGFigures Geonodes/CGFigures Curve Nodes:CGFigures Assets-CGFigures Geonodes-CGFigures Curve Nodes
+851cc7ac-e3c5-4cb8-9faf-ddc34bb7fe57:CGFigures Assets/CGFigures Geonodes/Papers to Pages:CGFigures Assets-CGFigures Geonodes-Papers to Pages
+ab051993-394e-46e0-a818-7856acb76888:CGFigures Assets/CGFigures Geonodes/Quick Tools:CGFigures Assets-CGFigures Geonodes-Quick Tools
+472e5cb9-66e0-45fa-add7-f602fcee468d:CGFigures Assets/Chemistry Labware:CGFigures Assets-Chemistry Labware
+c165bbf8-cd82-401a-9a49-7d1e2c1f1306:CGFigures Assets/Chemistry Labware/Adapters:CGFigures Assets-Chemistry Labware-Adapters
+4e2d0c22-196a-4bb1-ac8b-93ec1e0035ef:CGFigures Assets/Chemistry Labware/Beakers:CGFigures Assets-Chemistry Labware-Beakers
+6b214487-a9e5-4d66-ae41-cec28d2f5818:CGFigures Assets/Chemistry Labware/Chemical Storage:CGFigures Assets-Chemistry Labware-Chemical Storage
+0b958ed5-294f-44dc-85ef-815e674a9234:CGFigures Assets/Chemistry Labware/Chemical Storage/Waste Containers:...s Assets-Chemistry Labware-Chemical Storage-Waste Containers
+503eed67-4f9c-480e-befc-59e411e55f62:CGFigures Assets/Chemistry Labware/Clamps:CGFigures Assets-Chemistry Labware-Clamps
+37dd1ecc-d27a-4506-bb87-e1e6ffa8d9f0:CGFigures Assets/Chemistry Labware/Condensers:CGFigures Assets-Chemistry Labware-Condensers
+afc6bea0-473d-4ef4-9cc0-a1f374e1b28b:CGFigures Assets/Chemistry Labware/Consumables:CGFigures Assets-Chemistry Labware-Consumables
+ffa78a73-9d0b-4cda-84ec-a2255f49c408:CGFigures Assets/Chemistry Labware/Cork Rings:CGFigures Assets-Chemistry Labware-Cork Rings
+fd6cd5b9-5dc2-4289-a9c2-0a689ca7b05d:CGFigures Assets/Chemistry Labware/Desiccator:CGFigures Assets-Chemistry Labware-Desiccator
+1daefb3c-e097-460e-9f86-6f13678fc7c8:CGFigures Assets/Chemistry Labware/Erlenmeyer Flasks:CGFigures Assets-Chemistry Labware-Erlenmeyer Flasks
+a49f0435-024e-4eac-9160-e78d8283d632:CGFigures Assets/Chemistry Labware/Graduated Cylinders:CGFigures Assets-Chemistry Labware-Graduated Cylinders
+11eb1253-8ae2-41c3-a83f-d81111e01c37:CGFigures Assets/Chemistry Labware/Office Supplies:CGFigures Assets-Chemistry Labware-Office Supplies
+a1092b78-9515-408a-8ce5-ffe45bf512ac:CGFigures Assets/Chemistry Labware/Pipettes and Bulbs:CGFigures Assets-Chemistry Labware-Pipettes and Bulbs
+b03bf152-3a98-4bc7-a391-777b567be267:CGFigures Assets/Chemistry Labware/Round Bottom Flasks:CGFigures Assets-Chemistry Labware-Round Bottom Flasks
+c4c86208-136c-41f5-a7bd-5dbd08b03b25:CGFigures Assets/Chemistry Labware/Spatulae:CGFigures Assets-Chemistry Labware-Spatulae
+7b1f5b1b-155c-4768-99ef-12bc98a2436c:CGFigures Assets/Chemistry Labware/Spray Bottles:CGFigures Assets-Chemistry Labware-Spray Bottles
+ce0ba742-da1b-4a1d-9e58-11851416d87c:CGFigures Assets/Chemistry Labware/Stoppers:CGFigures Assets-Chemistry Labware-Stoppers
+6b779466-a5f4-4a95-be66-2bcff257cc75:CGFigures Assets/Chemistry Labware/Syringes and Needles:CGFigures Assets-Chemistry Labware-Syringes and Needles
+61d6d262-1481-421f-abbf-89bc43c9d047:CGFigures Assets/Chemistry Labware/Syringes and Needles/Needles:...igures Assets-Chemistry Labware-Syringes and Needles-Needles
+7856a97f-07eb-4b64-9daa-5006f38b94a9:CGFigures Assets/Chemistry Labware/Syringes and Needles/Syringes:...gures Assets-Chemistry Labware-Syringes and Needles-Syringes
+dc00782f-35cb-49e6-9096-353dbe0ad995:CGFigures Assets/Chemistry Labware/Vials:CGFigures Assets-Chemistry Labware-Vials
+732fd91c-34c1-4238-b15d-b3058136ce49:CGFigures Assets/Data Visualization:CGFigures Assets-Data Visualization
+2e9f7d83-e1c8-4cef-a862-0599e73d56fb:CGFigures Assets/Data Visualization/Graph Nodes:CGFigures Assets-Data Visualization-Graph Nodes
+24ba15c4-9ba4-4236-9665-ff0b0f7c148c:CGFigures Assets/Data Visualization/The Periodic Table:CGFigures Assets-Data Visualization-The Periodic Table
+e78931e4-44e8-414a-86b9-1d00a0013e87:CGFigures Assets/Figure Elements:CGFigures Assets-Figure Elements
+ad487df9-deb2-4ab4-9589-3f6233c7fdbc:CGFigures Assets/Figure Elements/Device Stack Generators:CGFigures Assets-Figure Elements-Device Stack Generators
+0fb70de3-e40a-42ae-8ebe-87c1bda9920c:CGFigures Assets/Figure Elements/Device Stack Generators/Default Stacks:...ssets-Figure Elements-Device Stack Generators-Default Stacks
+235db0c2-7e52-4d5c-a0d0-01509d8e3e8a:CGFigures Assets/Figure Elements/Device Stack Generators/Premade Solar Cells:...-Figure Elements-Device Stack Generators-Premade Solar Cells
+6441bcda-aa88-489b-927e-c1b7f4a541bd:CGFigures Assets/Figure Elements/Device Stack Generators/Premade Transistors:...-Figure Elements-Device Stack Generators-Premade Transistors
+9fd3b0d7-fea9-4990-8b2e-ff255e693a75:CGFigures Assets/Figure Elements/Polymers:CGFigures Assets-Figure Elements-Polymers
+9af4ee07-0cdc-4567-aeb7-32f45a44a765:CGFigures Assets/Figure Elements/Porous Structures:CGFigures Assets-Figure Elements-Porous Structures
+91a61361-9122-4798-8002-f2f88d3b9e10:CGFigures Assets/Functional 3D Printing:CGFigures Assets-Functional 3D Printing
+9dc5b68e-0dca-4907-9605-4a80480e18e3:CGFigures Assets/Functional 3D Printing/Thin Film Storage:CGFigures Assets-Functional 3D Printing-Thin Film Storage
+2a4adda5-fb14-4e4b-8fb9-cd7606ae1568:CGFigures Assets/Hardware Components:CGFigures Assets-Hardware Components
+d22033aa-4489-4546-b804-afdd935310a1:CGFigures Assets/Hardware Components/3D Printing:CGFigures Assets-Hardware Components-3D Printing
+f7b5eb81-74be-4ea1-86dc-f28b62f79bec:CGFigures Assets/Hardware Components/Aluminum Extrusions:CGFigures Assets-Hardware Components-Aluminum Extrusions
+32310c33-63e0-4798-80d3-9c360ffccb7b:CGFigures Assets/Hardware Components/Bearings and Wheels:CGFigures Assets-Hardware Components-Bearings and Wheels
+81cb3864-72ae-46cf-a6eb-f6efd8ba3716:CGFigures Assets/Hardware Components/Motors:CGFigures Assets-Hardware Components-Motors
+0c06cfa4-0877-4432-a77c-d3810f51b3f5:CGFigures Assets/Hardware Components/Power Supplies:CGFigures Assets-Hardware Components-Power Supplies
+8b3a1dcc-0447-454b-81e8-4bf9a4ef251e:CGFigures Assets/Hardware Components/Simple Schematics:CGFigures Assets-Hardware Components-Simple Schematics
+671a9a08-c328-460c-a026-bbc8e335bdce:CGFigures Assets/Hardware Components/Solar:CGFigures Assets-Hardware Components-Solar
+5c0aa265-051c-4ea7-a186-9f076a34c400:CGFigures Assets/Hardware Components/Tubing:CGFigures Assets-Hardware Components-Tubing
+93fc498c-77a9-4b4d-aeea-6356fe56ea04:CGFigures Assets/Laboratory Hardware:CGFigures Assets-Laboratory Hardware
+cace0ac8-db57-437c-a3cd-f333553a0194:CGFigures Assets/Laboratory Hardware/Benchtops and Cabinets:CGFigures Assets-Laboratory Hardware-Benchtops and Cabinets
+9df8584a-b3d1-4546-8291-903fddab89a1:CGFigures Assets/Laboratory Hardware/Gas Cylinders:CGFigures Assets-Laboratory Hardware-Gas Cylinders
+87895be2-2ffd-4836-b4e1-9307f53678a0:CGFigures Assets/Laboratory Hardware/Instrument Specific:CGFigures Assets-Laboratory Hardware-Instrument Specific
+e27a4c60-0af1-4108-bfee-6820f5ed5528:CGFigures Assets/Laboratory Hardware/Instrument Specific/Thermal Evaporators:...-Laboratory Hardware-Instrument Specific-Thermal Evaporators
+50602e43-672c-4883-857a-656d2cbb7f46:CGFigures Assets/Laboratory Hardware/Instrument Specific/Thermogravimetric Analyzers:...ory Hardware-Instrument Specific-Thermogravimetric Analyzers
+b4c2c8f8-80e7-4cff-a2c7-0e4f3d66491f:CGFigures Assets/Laboratory Hardware/Lab Equipment:CGFigures Assets-Laboratory Hardware-Lab Equipment
+6deaa237-ac59-4040-afae-52bd4ef9cb9e:CGFigures Assets/Laboratory Hardware/Standard Equipment:CGFigures Assets-Laboratory Hardware-Standard Equipment
+45e27deb-b8e9-4b29-86d9-8fa93c40e7a5:CGFigures Assets/Laboratory Hardware/Stools and Chairs:CGFigures Assets-Laboratory Hardware-Stools and Chairs
+0d9cabb6-1451-40d1-805b-63e2a700df4b:CGFigures Assets/Material Preview Lighting:CGFigures Assets-Material Preview Lighting
+abcef9a7-7528-457d-8f0c-ea3f1cb375c8:CGFigures Assets/Material Preview Lighting/Indoors:CGFigures Assets-Material Preview Lighting-Indoors
+c26fbd77-e221-4759-9c23-6c31b514b018:CGFigures Assets/Material Preview Lighting/Outdoors:CGFigures Assets-Material Preview Lighting-Outdoors
+7b83ca1f-8caa-4194-be00-f8b6c416e2e6:CGFigures Assets/Miscellaneous:CGFigures Assets-Miscellaneous
+070dfacc-2201-4d6f-bed0-e57c858d5b99:CGFigures Assets/Miscellaneous/Darts:CGFigures Assets-Miscellaneous-Darts
+710f0623-3530-4335-b089-ecc6b1f363d8:CGFigures Assets/Miscellaneous/Weights:CGFigures Assets-Miscellaneous-Weights
+d571c668-48e6-47bc-83a4-1db27b50e35c:CGFigures Assets/Miscellaneous/Weights/Barbell and Plates:CGFigures Assets-Miscellaneous-Weights-Barbell and Plates
+31bb7ca4-2293-4d18-8d84-89619007eebe:CGFigures Assets/Miscellaneous/Weights/Dumbbells:CGFigures Assets-Miscellaneous-Weights-Dumbbells
+92bbcd4b-f759-43d3-b527-225edd833338:CGFigures Assets/Miscellaneous/Weights/Squat Rack:CGFigures Assets-Miscellaneous-Weights-Squat Rack
+31156876-7e56-439b-bdbe-4aaa035d26b9:CGFigures Assets/Modeling Basics:CGFigures Assets-Modeling Basics
+d6792a8b-82ae-48fc-b1b3-5c3314813f5e:CGFigures Assets/Modeling Basics/Topology Corrections:CGFigures Assets-Modeling Basics-Topology Corrections
+c5c7ab25-dce9-48ac-8651-abe3f2ecf912:CGFigures Assets/Modeling Basics/Topology Corrections/8 Vert Circles:...s Assets-Modeling Basics-Topology Corrections-8 Vert Circles
+d12b4b3d-8817-4dfb-bd9f-e0437160b459:CGFigures Assets/Modeling Basics/Topology Corrections/N to M Face Planes:...sets-Modeling Basics-Topology Corrections-N to M Face Planes
+f9c52c82-8e83-4c51-a234-425b0803bd7b:CGFigures Assets/Molecules:CGFigures Assets-Molecules
+348f3d21-cb9d-46cb-b1b8-7b4df375f2e6:CGFigures Assets/Molecules/Carbon Materials:CGFigures Assets-Molecules-Carbon Materials
+aec70e4e-b335-423a-a265-26f1c2789ffa:CGFigures Assets/Molecules/Carbon Materials/Fullerene:CGFigures Assets-Molecules-Carbon Materials-Fullerene
+2396f187-55eb-4a15-b7d0-5e131f183352:CGFigures Assets/Molecules/Carbon Materials/Graphene and Boron Nitride:...Assets-Molecules-Carbon Materials-Graphene and Boron Nitride
+5cffcc37-249b-4271-9da9-bda76672b0b0:CGFigures Assets/Molecules/Carbon Materials/Nanotubes:CGFigures Assets-Molecules-Carbon Materials-Nanotubes
+694e7342-6eaa-4450-8bf2-e01eb70aa7fa:CGFigures Assets/Molecules/Common Molecules:CGFigures Assets-Molecules-Common Molecules
+031eb571-4248-4c99-9af1-ebad3b55bb6f:CGFigures Assets/Molecules/Common Molecules/Amino Acids:CGFigures Assets-Molecules-Common Molecules-Amino Acids
+c74c595c-a663-4785-9092-3d45311883df:CGFigures Assets/Molecules/Common Molecules/Amino Acids/D-Amino Acids:... Assets-Molecules-Common Molecules-Amino Acids-D-Amino Acids
+c464dfab-41d6-4bad-9951-cb3112592d19:CGFigures Assets/Molecules/Common Molecules/Amino Acids/Glycine:...igures Assets-Molecules-Common Molecules-Amino Acids-Glycine
+aaa6d78c-81fa-4b31-97aa-1e6169713d06:CGFigures Assets/Molecules/Common Molecules/Amino Acids/L-Amino Acids:... Assets-Molecules-Common Molecules-Amino Acids-L-Amino Acids
+e1e92305-60a2-4e2f-bf1e-ed0d777a3bbe:CGFigures Assets/Molecules/Common Molecules/Recognizable Molecules:...res Assets-Molecules-Common Molecules-Recognizable Molecules
+d948df60-4181-491f-89ad-97c0429f0c85:CGFigures Assets/Molecules/Common Molecules/Simple Molecules:CGFigures Assets-Molecules-Common Molecules-Simple Molecules
+3edfb37f-6332-4f57-96ce-888e418a6b0d:CGFigures Assets/Molecules/Common Molecules/Standard Solvents:CGFigures Assets-Molecules-Common Molecules-Standard Solvents
+63969d6b-8c72-477a-bea0-06a78e4aad0c:CGFigures Assets/Molecules/Lattices and Unit Cells:CGFigures Assets-Molecules-Lattices and Unit Cells
+55cb5ff5-5c6c-4d5b-9378-7756f4e00924:CGFigures Assets/Molecules/Lattices and Unit Cells/Lithium Cobalt Oxide:...ssets-Molecules-Lattices and Unit Cells-Lithium Cobalt Oxide
+b36c3e47-ea47-4c9a-95b2-5d9a3cb8fa99:CGFigures Assets/Molecules/Lattices and Unit Cells/Metal Dichalcogenides:...sets-Molecules-Lattices and Unit Cells-Metal Dichalcogenides
+4f115508-349d-476a-89fb-7a09399a70ed:CGFigures Assets/Molecules/Lattices and Unit Cells/Perovskites:CGFigures Assets-Molecules-Lattices and Unit Cells-Perovskites
+7b2428a8-2c1f-43ae-b031-072514585581:CGFigures Assets/Physics:CGFigures Assets-Physics
+954ff339-527d-4221-8652-a5462eb03eae:CGFigures Assets/Physics/Lasers and EM Waves:CGFigures Assets-Physics-Lasers and EM Waves
+0509c5a1-ee09-4f9f-a41a-25e754ec474a:CGFigures Assets/Scientific Shaders:CGFigures Assets-Scientific Shaders
+5051ed42-83f1-4e8e-ac91-149b57b94616:CGFigures Assets/Scientific Shaders/Biology Shaders:CGFigures Assets-Scientific Shaders-Biology Shaders
+7900eb38-612a-4a48-85d1-e79d6a58cbd2:CGFigures Assets/Scientific Shaders/General Shaders:CGFigures Assets-Scientific Shaders-General Shaders
+e281abbf-9a91-49aa-9980-c23899159150:CGFigures Assets/Scientific Shaders/Materials Science Shaders:CGFigures Assets-Scientific Shaders-Materials Science Shaders
