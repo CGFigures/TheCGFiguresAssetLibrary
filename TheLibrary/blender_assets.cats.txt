@@ -6,28 +6,28 @@
 
 VERSION 1
 
-07cba971-3920-4571-8641-090e3386e81d:CGFigures Assets:CGFigures Assets
-a0168178-8e78-451a-8484-2159ee47b946:CGFigures Assets/Atomic Nodes Instances:CGFigures Assets-Atomic Nodes Instances
-c626bc1b-a537-4298-ac06-4365635cecb6:CGFigures Assets/Atomic Nodes Instances:CGFigures Assets-Atomic Nodes Instances
-6a933d16-ada8-4232-a08a-7a1b14f8661f:CGFigures Assets/Atomic Nodes Instances/Modify Atoms:CGFigures Assets-Atomic Nodes Instances-Modify Atoms
-48723a39-33b5-4ab4-82fe-30aea0f20aee:CGFigures Assets/Atomic Nodes Instances/Modify Atoms/Basic Transforms:... Assets-Atomic Nodes Instances-Modify Atoms-Basic Transforms
-1119dfc8-53b8-4fb7-ac7e-1ec53af8d3af:CGFigures Assets/Atomic Nodes Instances/Modify Atoms/Compound Transforms:...sets-Atomic Nodes Instances-Modify Atoms-Compound Transforms
-df73141b-d9f4-425e-b24e-b169180170c2:CGFigures Assets/Atomic Nodes Instances/Modify Atoms/Other Modifications:...sets-Atomic Nodes Instances-Modify Atoms-Other Modifications
-d91f8131-8dc2-45c4-b659-103939da3e99:CGFigures Assets/Atomic Nodes Instances/Modify Bonds:CGFigures Assets-Atomic Nodes Instances-Modify Bonds
-0fd4a4cd-2460-448e-8f0d-e139a7a4080e:CGFigures Assets/Atomic Nodes Instances/Setup Nodes:CGFigures Assets-Atomic Nodes Instances-Setup Nodes
-288612a2-8b68-480d-9b59-beebb10cd131:CGFigures Assets/Atomic Nodes Mesh:CGFigures Assets-Atomic Nodes Mesh
-76bca0f6-71bf-4ca6-b529-55f34b5481b7:CGFigures Assets/Atomic Nodes Mesh/Adjust Scale:CGFigures Assets-Atomic Nodes Mesh-Adjust Scale
-a84eaaef-83ed-49fd-87e4-b3abc49f4174:CGFigures Assets/Atomic Nodes Mesh/Hide Features:CGFigures Assets-Atomic Nodes Mesh-Hide Features
-ed7454a9-6501-4f4f-93e0-5ba69b53f7ce:CGFigures Assets/Atomic Nodes Mesh/Other Utilties:CGFigures Assets-Atomic Nodes Mesh-Other Utilties
-1a2178f5-9bea-4b2d-a5ff-1fbcdbb74321:CGFigures Assets/Atomic Nodes Mesh/Select by Element:CGFigures Assets-Atomic Nodes Mesh-Select by Element
-c4e88924-ed73-4716-b3ff-e20f25b43418:CGFigures Assets/Biology:CGFigures Assets-Biology
-121520f2-7fd0-4ecc-bcb5-fb227de80ce6:CGFigures Assets/Biology/Cells and Organelles:CGFigures Assets-Biology-Cells and Organelles
-383c10f3-b1e1-4a80-bafa-1caea139deb4:CGFigures Assets/Biology/Cells and Organelles/Cells and Membranes:...ures Assets-Biology-Cells and Organelles-Cells and Membranes
-872da7ac-7bd6-4e1e-a914-2a7867beda76:CGFigures Assets/Biology/Cells and Organelles/Phospholipid Styles:...ures Assets-Biology-Cells and Organelles-Phospholipid Styles
-acd961d1-2159-4245-9476-761b14da6ad0:CGFigures Assets/CGFigures Geonodes:CGFigures Assets-CGFigures Geonodes
-7630d4b2-7f57-461a-b18b-410ab1b07301:CGFigures Assets/CGFigures Geonodes/CGFigures Curve Nodes:CGFigures Assets-CGFigures Geonodes-CGFigures Curve Nodes
-851cc7ac-e3c5-4cb8-9faf-ddc34bb7fe57:CGFigures Assets/CGFigures Geonodes/Papers to Pages:CGFigures Assets-CGFigures Geonodes-Papers to Pages
-ab051993-394e-46e0-a818-7856acb76888:CGFigures Assets/CGFigures Geonodes/Quick Tools:CGFigures Assets-CGFigures Geonodes-Quick Tools
+07cba971-3920-4571-8641-090e3386e81d:Scientic Assets:CGFigures Assets
+a0168178-8e78-451a-8484-2159ee47b946:Scientic Assets/Atomic Nodes Instances:CGFigures Assets-Atomic Nodes Instances
+c626bc1b-a537-4298-ac06-4365635cecb6:Scientic Assets/Atomic Nodes Instances:CGFigures Assets-Atomic Nodes Instances
+6a933d16-ada8-4232-a08a-7a1b14f8661f:Scientic Assets/Atomic Nodes Instances/Modify Atoms:CGFigures Assets-Atomic Nodes Instances-Modify Atoms
+48723a39-33b5-4ab4-82fe-30aea0f20aee:ScienticAssets/Atomic Nodes Instances/Modify Atoms/Basic Transforms:... Assets-Atomic Nodes Instances-Modify Atoms-Basic Transforms
+1119dfc8-53b8-4fb7-ac7e-1ec53af8d3af:Scientic Assets/Atomic Nodes Instances/Modify Atoms/Compound Transforms:...sets-Atomic Nodes Instances-Modify Atoms-Compound Transforms
+df73141b-d9f4-425e-b24e-b169180170c2:Scientic Assets/Atomic Nodes Instances/Modify Atoms/Other Modifications:...sets-Atomic Nodes Instances-Modify Atoms-Other Modifications
+d91f8131-8dc2-45c4-b659-103939da3e99:Scientic Assets/Atomic Nodes Instances/Modify Bonds:CGFigures Assets-Atomic Nodes Instances-Modify Bonds
+0fd4a4cd-2460-448e-8f0d-e139a7a4080e:ScienticAssets/Atomic Nodes Instances/Setup Nodes:CGFigures Assets-Atomic Nodes Instances-Setup Nodes
+288612a2-8b68-480d-9b59-beebb10cd131:Scientic Assets/Atomic Nodes Mesh:CGFigures Assets-Atomic Nodes Mesh
+76bca0f6-71bf-4ca6-b529-55f34b5481b7:Scientic Assets/Atomic Nodes Mesh/Adjust Scale:CGFigures Assets-Atomic Nodes Mesh-Adjust Scale
+a84eaaef-83ed-49fd-87e4-b3abc49f4174:Scientic Assets/Atomic Nodes Mesh/Hide Features:CGFigures Assets-Atomic Nodes Mesh-Hide Features
+ed7454a9-6501-4f4f-93e0-5ba69b53f7ce:Scientic Assets/Atomic Nodes Mesh/Other Utilties:CGFigures Assets-Atomic Nodes Mesh-Other Utilties
+1a2178f5-9bea-4b2d-a5ff-1fbcdbb74321:Scientic Assets/Atomic Nodes Mesh/Select by Element:CGFigures Assets-Atomic Nodes Mesh-Select by Element
+c4e88924-ed73-4716-b3ff-e20f25b43418:Scientic Assets/Biology:CGFigures Assets-Biology
+121520f2-7fd0-4ecc-bcb5-fb227de80ce6:Scientic Assets/Biology/Cells and Organelles:CGFigures Assets-Biology-Cells and Organelles
+383c10f3-b1e1-4a80-bafa-1caea139deb4:Scientic Assets/Biology/Cells and Organelles/Cells and Membranes:...ures Assets-Biology-Cells and Organelles-Cells and Membranes
+872da7ac-7bd6-4e1e-a914-2a7867beda76:Scientic Assets/Biology/Cells and Organelles/Phospholipid Styles:...ures Assets-Biology-Cells and Organelles-Phospholipid Styles
+acd961d1-2159-4245-9476-761b14da6ad0:Scientic Assets/CGFigures Geonodes:CGFigures Assets-CGFigures Geonodes
+7630d4b2-7f57-461a-b18b-410ab1b07301:Scientic Assets/CGFigures Geonodes/CGFigures Curve Nodes:CGFigures Assets-CGFigures Geonodes-CGFigures Curve Nodes
+851cc7ac-e3c5-4cb8-9faf-ddc34bb7fe57:Scientic Assets/CGFigures Geonodes/Papers to Pages:CGFigures Assets-CGFigures Geonodes-Papers to Pages
+ab051993-394e-46e0-a818-7856acb76888:Scientic Assets/CGFigures Geonodes/Quick Tools:CGFigures Assets-CGFigures Geonodes-Quick Tools
 472e5cb9-66e0-45fa-add7-f602fcee468d:CGFigures Assets/Chemistry Labware:CGFigures Assets-Chemistry Labware
 c165bbf8-cd82-401a-9a49-7d1e2c1f1306:CGFigures Assets/Chemistry Labware/Adapters:CGFigures Assets-Chemistry Labware-Adapters
 4e2d0c22-196a-4bb1-ac8b-93ec1e0035ef:CGFigures Assets/Chemistry Labware/Beakers:CGFigures Assets-Chemistry Labware-Beakers
